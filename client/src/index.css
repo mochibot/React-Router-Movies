@@ -70,3 +70,8 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+.home-button:hover {
+  background-color: rgb(12, 103, 160);
+  color: white;
+}
